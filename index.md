@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Git-Practice
 
 You can use the [editor on GitHub](https://github.com/AmandaB43/git-practice1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
